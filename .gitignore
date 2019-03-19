@@ -8,5 +8,5 @@ media
 
 .idea/
 venv/
-
+migrations/
 
